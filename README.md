@@ -108,6 +108,6 @@ python app.py
 ---
 
 ## Author
-**[Your Name]** — [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:you@example.com)
+**Rudranil Chakraborty** 
 
 *Built as a learning project exploring graph + language-model fusion for recommendation. Feedback welcome.*
